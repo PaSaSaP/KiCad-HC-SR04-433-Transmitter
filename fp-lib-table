@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "some-footprints")(type "KiCad")(uri "/Users/pasasap/Documents/KiCad/MyDownloadedLibraries/some-kicad-components/mod")(options "")(descr ""))
+  (lib (name "KdLibrary")(type "KiCad")(uri "/Users/pasasap/Documents/KiCad/MyDownloadedLibraries/KdLibrary/KdLibrary.pretty")(options "")(descr ""))
+)
